@@ -13,7 +13,6 @@ class SecondViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-       print("Hiiii")
         print("Hiiii")
         print("Hiiii")
         print("Hiiii")
@@ -24,6 +23,8 @@ class SecondViewController: UIViewController {
         print("Hiiii")
         print("Hiiii")
         print("Hiiii")
+        print("Hiiii")
+        
     }
     
 
