@@ -13,23 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
     
-        print("sdhf")
-        print("sdhf")
-        print("sdhf")
-        print("sdhf")
-        print("sdhf")
-        print("sdhf")
-        print("sdhf")
-        print("sdhf")
-        
-        print("sdhf")
-        print("sdhf")
-        print("sdhf")
-        print("sdhf")
-        print("sdhf")
-        print("sdhf")
-        print("sdhf")
-        print("sdhf")
+       
         
     }
 }
