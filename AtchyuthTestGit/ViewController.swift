@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
     
        print("dfn", separator: "cdjfnm", terminator: "dmf")
+        print("dfn", separator: "cdjfnm", terminator: "dmf")
+
         
     }
 }
