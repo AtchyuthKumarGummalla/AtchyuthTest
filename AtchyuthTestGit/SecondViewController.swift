@@ -15,6 +15,8 @@ class SecondViewController: UIViewController {
 
        print("Hiiii")
         print("Hiiii")
+        print("Hiiii")
+        print("Hiiii")
     }
     
 
